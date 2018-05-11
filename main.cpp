@@ -1,7 +1,4 @@
-/**
- * @desc Programa que exibe uma pir�mide sob dois pontos de vista distintos.
- * @author Diego Cintra
- */
+
 #include <iostream>
 #include <GL/glut.h>
 #include <cstdlib>
